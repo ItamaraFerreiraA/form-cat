@@ -49,11 +49,11 @@ const TextFieldBasicExample: React.FunctionComponent = () => {
   
   const formSubmit = (event: React.FormEvent) => {
     event.preventDefault();
-    console.log('Nome:', nome); 
-    console.log('Email:', email);
+    /*console.log('Nome:', nome); 
+    console.log('Email:', email);  
     console.log('Senha:', senha);   
     console.log('Telefone:', telefone);
-    console.log('Termos:', termos); 
+    console.log('Termos:', termos); */
   }; 
 
 
