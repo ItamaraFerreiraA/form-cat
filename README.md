@@ -1,5 +1,6 @@
-# Formulário de cadastro
+# Formulário para cadastro
 
-Projeto criando utilizando React com Fluent UI
+Projeto criado utilizando React com Fluent UI
 
-![image](https://github.com/ItamaraFerreiraA/formulario-login/assets/86384151/658a2e4a-4393-41a4-bd9d-cb1777ffd07c)
+
+![img2](https://github.com/ItamaraFerreiraA/form-cat/assets/86384151/36b0ee4b-071e-4fc2-8e28-9d529fcb6116)
